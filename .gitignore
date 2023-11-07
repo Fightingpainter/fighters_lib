@@ -2,7 +2,6 @@
 
 .gradle/
 build/
-!build/libs/*.jar
 out/
 classes/
 
